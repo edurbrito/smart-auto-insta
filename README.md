@@ -2,14 +2,14 @@
 
 ### Automate your Instagram postings with Python!
 
-> Possibly outdated.
-> Download the new Chrome driver version or update the XPath for the Instagram login page
-
 ## Prepare
 
 Place your credentials inside the [`cred.py`](src/cred.py) file and your new post info and post photo inside the [utils](utils) folder, as [`post_image.jpg`](utils/post_image.jpg) and [`post_info`](utils/post_info).
 
 ## Run
+
+> Possibly outdated.
+> Download the new Chrome driver version or update the XPath for the Instagram login page
 
 Inside the [src](src) folder, run:
 
