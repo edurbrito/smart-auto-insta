@@ -1,0 +1,8 @@
+https://developers.facebook.com/docs/instagram-basic-display-api/
+https://medium.com/@selfengineeredd/how-to-post-on-instagram-using-python-fd8b08050a85
+https://instagrambot.github.io/docs/en/
+https://pypi.org/project/instapy-cli/
+-----
+https://developers.facebook.com/docs/pages/managing/
+https://pypi.org/project/facebook-scraper/
+https://github.com/jgorset/facepy
